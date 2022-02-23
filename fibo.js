@@ -21,3 +21,5 @@ const fibo = (n) => {
         return arr[n]
     }
 }
+
+const res = fibo(500)
